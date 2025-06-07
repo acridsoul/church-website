@@ -1,9 +1,14 @@
 ---
-title: Hello, Welcome
-description: An introduction to using the note feature in Astro Citrus
+title: Kikuyu Service
 publishDate: "2024-10-14T11:23:00Z"
 ---
 
-Hi, Hello. This is an example note feature included with Astro Citrus.
+Thaai thathaiyai Ngai thaai.
 
-They're for shorter, concise "post's" that you'd like to share, they generally don't include headings, but hey, that's entirely up to you.
+Nĩ ũũru wa Ngai ũrĩa ũrĩ na ithuĩ,
+Na ũũru wa Mwana ũrĩa ũrĩ na ithuĩ,
+Na ũũru wa Roho Mũtheru ũrĩa ũrĩ na ithuĩ,
+Na ũũru wa Ngai ũrĩa ũrĩ na ithuĩ,
+Na ũũru wa Ngai ũrĩa ũrĩ na ithuĩ.
+
+Thaai thathaiyai Ngai thaai.

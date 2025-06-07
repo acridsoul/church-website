@@ -1,5 +1,5 @@
 ---
-title: English Service Liturgy
+title: English Service
 publishDate: "2025-06-06T18:26:00Z"
 updateDate: "2025-06-06T14:32:00Z"
 ---

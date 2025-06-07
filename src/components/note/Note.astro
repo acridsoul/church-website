@@ -2,6 +2,7 @@
 import { type CollectionEntry, render } from "astro:content";
 import FormattedDate from "@/components/FormattedDate.astro";
 import type { HTMLTag, Polymorphic } from "astro/types";
+import { Icon } from "astro-icon/components";
 
 type Props<Tag extends HTMLTag> = Polymorphic<{ as: Tag }> & {
 	note: CollectionEntry<"note">;
@@ -13,46 +14,40 @@ const { Content } = await render(note);
 ---
 
 <article
-	class:list={[isPreview && "inline-grid w-full rounded-lg bg-color-75 px-4 md:px-8 py-2 md:py-4"]}
+	class:list={[
+		isPreview && "inline-grid w-full rounded-lg bg-color-75 px-4 md:px-8 py-4 md:py-6 hover:bg-gradient-to-r hover:from-accent-one/10 hover:to-accent-two/10 transition-all duration-300 cursor-pointer shadow-sm hover:shadow-md"
+	]}
 	data-pagefind-body={isPreview ? false : true}
 >
-	<Tag class="flex items-end title md:sticky md:top-8 md:z-10" class:list={{ "text-base": isPreview }}>
-		{
-			isPreview ? (
-				<a class="citrus-link" href={`/notes/${note.id}/`}>
+	{
+		isPreview ? (
+			<a class="citrus-link group" href={`/notes/${note.id}/`}>
+				<Tag class="flex items-center justify-center gap-2 title text-lg md:text-xl">
+					<span class="group-hover:text-accent-one transition-colors duration-300">{note.data.title}</span>
+					<Icon name="mdi:book-open-variant" class="h-6 w-6 text-accent-two group-hover:scale-110 group-hover:text-accent-one transition-all duration-300" />
+				</Tag>
+			</a>
+		) : (
+			<>
+				<Tag class="flex items-end title md:sticky md:top-8 md:z-10">
 					{note.data.title}
-				</a>
-			) : (
-				<>{note.data.title}</>
-			)
-		}
-	</Tag>
-	<div 
-		class="flex items-end h-6 text-sm text-lighter"
-		class:list={{ "mt-4": !isPreview }}
-	>
-		
-		<FormattedDate
-			dateTimeOptions={{
-				hour: "2-digit",
-				minute: "2-digit",
-				year: "numeric",
-				month: "long",
-				day: "2-digit",
-			}}
-			date={note.data.publishDate}
-		/>
-	</div>
-	<div
-		class="prose prose-citrus mt-4 max-w-none [&>p:last-of-type]:mb-0"
-		class:list={{
-			"line-clamp-4": isPreview,
-			"[&>blockquote]:line-clamp-4 [&>blockquote]:mb-0": isPreview,
-			"[&>blockquote:not(:first-of-type)]:hidden": isPreview,
-			// "[&>p]:line-clamp-4": isPreview,
-			// "[&>p:not(:first-of-type)]:hidden": isPreview,
-		}} 
-	>
-		<Content />
-	</div>
+				</Tag>
+				<div class="flex items-end h-6 text-sm text-lighter mt-4">
+					<FormattedDate
+						dateTimeOptions={{
+							hour: "2-digit",
+							minute: "2-digit",
+							year: "numeric",
+							month: "long",
+							day: "2-digit",
+						}}
+						date={note.data.publishDate}
+					/>
+				</div>
+				<div class="prose prose-citrus mt-4 max-w-none [&>p:last-of-type]:mb-0">
+					<Content />
+				</div>
+			</>
+		)
+	}
 </article>
