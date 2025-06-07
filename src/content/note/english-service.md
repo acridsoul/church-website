@@ -4,10 +4,10 @@ publishDate: "2025-06-06T18:26:00Z"
 updateDate: "2025-06-06T14:32:00Z"
 ---
 
-Leader: The Lord be with you. <br>
-<span class="text-accent-one font-bold">People: And also with you.</span>
+<span class="text-accent-one font-bold">Leader: The Lord be with you.</span> <br>
+<span class="text-accent-two font-bold">People: And also with you.</span>
 
-We have come together, 
+<span class="text-accent-one font-bold">Leader: We have come together, 
 the people of God,  
 drawn by his Spirit. 
 longing for his word, to  
@@ -17,17 +17,17 @@ glorious news of grace
  to pray for our needs  
 and the pain of the world
 to rejoice in his love  
-and be sent in his peace.  
+and be sent in his peace.  </span>
 
 
-Leader:  We are heirs of the Father; <br>
-<span class="text-accent-one font-bold">People: Joint heirs with the son,</span>
+<span class="text-accent-one font-bold">Leader:  We are heirs of the Father;</span> <br>
+<span class="text-accent-two font-bold">People: Joint heirs with the son,</span>
 
-Leader: Renewed in the Spirit, <br>
-<span class="text-accent-one font-bold">People: Together we are one.</span>
+<span class="text-accent-one font-bold">Leader: Renewed in the Spirit,</span> <br>
+<span class="text-accent-two font-bold">People: Together we are one.</span>
 
 
-If we say we have no sin
+<span class="text-accent-one font-bold">Leader: If we say we have no sin
  we deceive ourselves  
 and the truth is not in us. 
 If we confess our sins,  
@@ -35,10 +35,10 @@ If we confess our sins,
  God is faithful and just,  
 and will forgive us our sins.
  So let us confess them to 
-our Father. 
+our Father. </span>
 <br>
 
-<span class="text-accent-one font-bold">People:
+<span class="text-accent-two font-bold">People:
  Eternal Father, God of our ancestors  
  before your power all things tremble
  but through  
@@ -54,7 +54,7 @@ Lord have mercy
  who died 
 and rose again for us. Amen</span>  
 
-Leader:
+<span class="text-accent-one font-bold">Leader:
 The God and Father of our Lord
  Jesus Christ  
   rejoices at repentance  
@@ -64,9 +64,9 @@ the lost are found. His goodness and mercy
  will follow you
  all the days of your life.  
  and you will live in the house
- of the Lord for ever. Amen  
+ of the Lord for ever. Amen</span>  
 
-Leader:
+<span class="text-accent-one font-bold">Leader:
 Lord of mercy,   
 grant us your pardon and peace:  
 that cleansed from  
@@ -74,22 +74,22 @@ that cleansed from
 in our hearts. we may be  
  free to serve you:  
 through 
-Jesus Christ our Lord.  
+Jesus Christ our Lord.</span>  
  <br>
-<span class="text-accent-one font-bold">People:  Amen.</span>
+<span class="text-accent-two font-bold">People:  Amen.</span>
 
- Leader: Blessed are those
- who live in your house: <br>
-<span class="text-accent-one font-bold">People: They will always be singing 
+<span class="text-accent-one font-bold">Leader: Blessed are those
+ who live in your house:</span> <br>
+<span class="text-accent-two font-bold">People: They will always be singing 
 your praise.</span>
  
- Leader: Praise the Lord. <br>
-<span class="text-accent-one font-bold">People: The name of the Lord
+<span class="text-accent-one font-bold">Leader: Praise the Lord.</span> <br>
+<span class="text-accent-two font-bold">People: The name of the Lord
  be praised</span>
  
-Leader: Glory to the Father 
-in whom all things began, <br>
-<span class="text-accent-one font-bold">People: Glory to the Son who
+<span class="text-accent-one font-bold">Leader: Glory to the Father 
+in whom all things began,</span> <br>
+<span class="text-accent-two font-bold">People: Glory to the Son who
  became the Son of 
 Man, <br> Glory to the Spirit 
 who inspires and
@@ -137,11 +137,11 @@ The forgiveness of sins,
 The resurrection of the body,  
 And the life everlasting. Amen.
 
-Leader: The Lord be with you. <br>
-<span class="text-accent-one font-bold">People: And also with you. </span>
+<span class="text-accent-one font-bold">Leader: The Lord be with you.</span> <br>
+<span class="text-accent-two font-bold">People: And also with you.</span>
 
-Leader: Let us pray. <br>
-<span class="text-accent-one font-bold">People: Ask and it shall be given unto you,  
+<span class="text-accent-one font-bold">Leader: Let us pray.</span> <br>
+<span class="text-accent-two font-bold">People: Ask and it shall be given unto you,  
 Seek and you shall find,  
 Knock and the door shall be opened unto you.  
 Allelu, alleluia.</span>
@@ -164,26 +164,26 @@ For the kingdom, the power and the glory are yours,
 Now and forever. Amen. 
 
 
-Leader: Show us your mercy, O Lord: <br>
-<span class="text-accent-one font-bold">People: And grant us your salvation.</span>
+<span class="text-accent-one font-bold">Leader: Show us your mercy, O Lord:</span> <br>
+<span class="text-accent-two font-bold">People: And grant us your salvation.</span>
 
-Leader: O Lord, guide our President  <br>
-<span class="text-accent-one font-bold">People: and give him your wisdom and justice..</span>
+<span class="text-accent-one font-bold">Leader: O Lord, guide our President</span> <br>
+<span class="text-accent-two font-bold">People: and give him your wisdom and justice..</span>
 
-Leader: May your ministers serve you faithfully; <br>
-<span class="text-accent-one font-bold">People: And your royal people joyfully.</span>
+<span class="text-accent-one font-bold">Leader: May your ministers serve you faithfully;</span> <br>
+<span class="text-accent-two font-bold">People: And your royal people joyfully.</span>
 
-Leader: In the valley of the shadow of death: <br>
-<span class="text-accent-one font-bold">People: Protect us with your rod and staff.</span>
+<span class="text-accent-one font-bold">Leader: In the valley of the shadow of death:</span> <br>
+<span class="text-accent-two font-bold">People: Protect us with your rod and staff.</span>
 
-Leader: Like trees planted by the waterside: <br>
-<span class="text-accent-one font-bold">People: Grant us the fruit of your Spirit.</span>
+<span class="text-accent-one font-bold">Leader: Like trees planted by the waterside:</span> <br>
+<span class="text-accent-two font-bold">People: Grant us the fruit of your Spirit.</span>
 
-Leader: Send us out as the salt of the earth: <br>
-<span class="text-accent-one font-bold">People: And as the light of the world.</span>
+<span class="text-accent-one font-bold">Leader: Send us out as the salt of the earth:</span> <br>
+<span class="text-accent-two font-bold">People: And as the light of the world.</span>
 
-Leader: May the earth be filled with your glory; <br>
-<span class="text-accent-one font-bold">People: As the waters cover the sea.</span>
+<span class="text-accent-one font-bold">Leader: May the earth be filled with your glory;</span> <br>
+<span class="text-accent-two font-bold">People: As the waters cover the sea.</span>
 
 
 ## PRAYER FOR PEACE
