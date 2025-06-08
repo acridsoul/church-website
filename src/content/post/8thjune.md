@@ -20,3 +20,12 @@ updatedDate: 08 June 2025
 3. Comforts Us when we have problems
 4. Intercedes for us to God
 5. Gives us the power to preach his word
+
+## Additional Sermon Notes
+
+### Baptism and Salvation
+- Jesus took away all the sins of the world when he got baptized
+- You should lead a Holy life because Baptism Cleanses Our Sins
+
+### Faith in Christ
+- We should believe in the Lamb of God Who takes away the sin of the world
