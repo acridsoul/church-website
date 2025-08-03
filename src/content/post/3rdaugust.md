@@ -1,9 +1,9 @@
 ---
-title: "8th - GroundBreaking Combined Service"
+title: "3rd - GroundBreaking Combined Service"
 description: "GroundBreaking Combined Service"
-publishDate: "8th"
+publishDate: "3 August 2025"
 tags: ["groundbreaking", "combined", "service"]
-updatedDate: 8th
+updatedDate: 3 August 2025
 ---
 
 ## Service Details
