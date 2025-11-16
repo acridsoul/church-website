@@ -19,7 +19,7 @@ updatedDate: 16 November 2025
 
 1. Don't Forget When God Elevates You
 2. Don't forget your friends
-3. Love The Way You Areadd
+3. Love The Way You Area
 4. God wants to show you love the way you are 
 
 ### Additional Sermon Notes
@@ -57,4 +57,27 @@ updatedDate: 16 November 2025
 #### Accompanying Verses
 - Exodus 3:10-12
 - John 1:29
+
+## Kikuyu Service
+
+### Service Details
+- **Preacher**: L/R Francis Kungu
+
+### Bible Readings
+- **First Reading**: Deuteronomy 31:1-8
+- **Second Reading**: Tito 1:1-9
+
+### Sermon Notes: 
+
+1. Effective Leaders Know Their Purpose 
+2. Live Abovely Through Character
+3. Must Be Faithful In Life
+4. Must Practice Self Control
+5. Stand Firm in 
+
+### Additional Sermon Notes
+
+- Christian Leaders must be grounded in Biblical Truth
+- Inspire Hope Because They act with Heaven's View
+- Having Consistent Godly Life not accused of hypocrisy
 
