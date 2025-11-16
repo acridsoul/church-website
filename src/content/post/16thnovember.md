@@ -15,5 +15,10 @@ updatedDate: 16 November 2025
 
 ## Sermon Notes: 
 
+1. Don't Forget When God Elevates You
+2. Don't forget your friends
+3. Love The Way You Are
+4. God wants to show you love the way you are 
+
 ## Additional Sermon Notes
 
